@@ -32,11 +32,11 @@
 ## Contacts
 
 ##### < clickable telegram >
-#
-[![TG](https://cdn-icons-png.flaticon.com/512/216/216545.png)](https://t.me/slavetos)
+
+[<img align="left" alt="David | Telegram" width="55px" src="https://cdn-icons-png.flaticon.com/512/216/216545.png" />][telegram]
 <br />
 
-
+[telegram]: https://t.me/slavetos
 
 
 
