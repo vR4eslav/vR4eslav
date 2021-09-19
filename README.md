@@ -25,7 +25,7 @@
 ## My GitHub Stats 📈📊
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vR4eslav&show_icons=true&title_color=E90000&icon_color=E90000&border_radius=25&count_private=True&)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vR4eslav&show_icons=true&title_color=E90000&icon_color=E90000&border_radius=25&count_private=True&line_height=20)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vR4eslav&title_color=E90000&&custom_title=My%20languages%20most%20used&border_radius=25)](https://github.com/vR4eslav)
 #
 
