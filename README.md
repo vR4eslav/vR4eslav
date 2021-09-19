@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Slava
 
 <!--
 **vR4eslav/vR4eslav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## My GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vR4eslav&show_icons=true)
+
+<br />
