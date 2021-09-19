@@ -11,9 +11,11 @@
 ![SQL](https://img.shields.io/badge/-postgresql-F7F7F7?style=for-the-badge&logo=postgresql)
 ![AWS](https://img.shields.io/badge/-aws-F7F7F7?style=for-the-badge&logo=Amazon)
 ![VCS](https://img.shields.io/badge/-versioncontrol-F7F7F7?style=for-the-badge&logo=git)
-![HTML](https://img.shields.io/badge/-html-F7F7F7?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-css-000000?style=for-the-badge&logo=CSS3)
+![HTML](https://img.shields.io/badge/-html5-F7F7F7?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-css3-000000?style=for-the-badge&logo=CSS3)
 ![DOCKER](https://img.shields.io/badge/-DOCKER-F7F7F7?style=for-the-badge&logo=DOCKER)
+![vscode](https://img.shields.io/badge/-vscode-0082CF?style=for-the-badge&logo=visualstudiocode)
+![linux](https://img.shields.io/badge/-linux-F7F7F7?style=for-the-badge&logo=linux)
 #
 ### 💡Still studying:
 
@@ -29,7 +31,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vR4eslav&title_color=E90000&&custom_title=My%20languages%20most%20used&border_radius=25)](https://github.com/vR4eslav)
 #
 
-## Contacts
+## 📞Contacts:
 
 ##### < clickable telegram >
 
