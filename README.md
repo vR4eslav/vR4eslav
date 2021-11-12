@@ -33,7 +33,7 @@
 
 ## 📞Contacts:
 
-##### < clickable telegram >
+##### < clickable telegram and LinkedIn >
 
 [<img align="left" width="55px" src="https://cdn-icons-png.flaticon.com/512/216/216545.png" />][telegram]
 <br />
