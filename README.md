@@ -35,11 +35,12 @@
 
 ##### < clickable telegram >
 
-[<img align="left" alt="David | Telegram" width="55px" src="https://cdn-icons-png.flaticon.com/512/216/216545.png" />][telegram]
+[<img align="left" width="55px" src="https://cdn-icons-png.flaticon.com/512/216/216545.png" />][telegram]
 <br />
+[<img align="left" width="55px" src="https://img.icons8.com/glyph-neue/64/fa314a/linkedin.png"/>][linkedin]
 
 [telegram]: https://t.me/slavetos
-
+[linkedin]: https://www.linkedin.com/in/vyacheslav-alisov-47759b225
 
 
 
